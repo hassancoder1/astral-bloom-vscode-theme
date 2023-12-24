@@ -1,0 +1,48 @@
+{
+    "name": "astral-bloom",
+    "displayName": "Astral Bloom Color Theme ✨",
+    "description": "Witness code blossom into vibrant beauty with Astral Bloom - a VS Code theme that infuses coding with cosmic energy. Immerse yourself in a palette of astral hues, vibrant syntax blooms, and celestial accents. Cultivate a coding experience that radiates creativity and inspiration. ✨",
+    "version": "1.0.0",
+    "publisher": "Hassan Coder",
+    "engines": {
+      "vscode": "^1.10.0"
+    },
+    "categories": ["Themes"],
+    "keywords": [
+        "vscode",
+        "theme",
+        "color-theme",
+        "dark-theme",
+        "astral",
+        "bloom",
+        "flowers",
+        "galaxy",
+        "coding",
+        "creativity",
+        "visual-appeal",
+        "inspiration",
+        "productivity",
+        "color theme",
+        "dark theme"
+      ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/hassancoder1/astral-bloom-vscode-theme"
+    },
+    "icon": "images/icon.png",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/hassancoder1/astral-bloom-vscode-theme/issues"
+    },
+    "homepage": "https://github.com/hassancoder1/astral-bloom-vscode-theme#readme",
+    "contributes": {
+      "themes": [
+        {
+          "label": "Astral Bloom",
+          "uiTheme": "vs-dark",
+          "path": "./themes/astral-bloom-theme.json"
+        }
+      ]
+    }
+  }
+  
